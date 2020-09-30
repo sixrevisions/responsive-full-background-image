@@ -46,7 +46,7 @@ blockquote {
   max-width: 480px;
   margin: 15px auto;
   padding: 15px;
-  background-color: rgba(0, 0, 0, 0.3);  
+  background-color: rgba(#RRGGBB);  
   color: #e1e1e1;
   font-family: "Kotta One", serif;
   font-size: 22px;
